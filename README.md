@@ -1,7 +1,5 @@
 # icinga2-slack-notification
 
-### Chỉnh sửa một số cài đặt sau
-
 1. Tạo 1 incoming-webhook trên slack.
 
 - Copy Webhook URL và paste vào file *slack-service-notification.sh* và *slack-host-notification.sh*
